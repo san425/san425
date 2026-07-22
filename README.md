@@ -1,8 +1,3 @@
-<!-- Center header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+san425;Builder+of+things.+Breaker+of+bugs." />
-</p>
-
 <!-- quick badges row -->
 <p align="center">
   <img alt="Followers" src="https://img.shields.io/github/followers/san425?label=Followers&style=flat">
